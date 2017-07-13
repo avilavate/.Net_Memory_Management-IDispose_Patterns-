@@ -1,0 +1,6 @@
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Release\with_dispose.exe.config
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Release\with_dispose.exe
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Release\with_dispose.pdb
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Release\with_dispose.csprojResolveAssemblyReference.cache
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Release\with_dispose.exe
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Release\with_dispose.pdb
