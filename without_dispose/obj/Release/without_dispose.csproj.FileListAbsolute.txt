@@ -3,3 +3,4 @@ C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\without_dispose\bin\Rele
 C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\without_dispose\bin\Release\without_dispose.pdb
 C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\without_dispose\obj\Release\without_dispose.exe
 C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\without_dispose\obj\Release\without_dispose.pdb
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\without_dispose\obj\Release\without_dispose.csprojResolveAssemblyReference.cache

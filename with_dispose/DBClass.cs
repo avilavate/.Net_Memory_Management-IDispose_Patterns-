@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace with_dispose
 {
@@ -42,6 +38,7 @@ namespace with_dispose
         public void Dispose()
         {
             Dispose(true);
+            GC.SuppressFinalize(this);
         }
 
         protected virtual void Dispose(bool v)
@@ -59,9 +56,10 @@ namespace with_dispose
                 }
                 if (reader != null)
                 {
-
+                    reader.Close();
                 }
             }
+
         }
     }
 
