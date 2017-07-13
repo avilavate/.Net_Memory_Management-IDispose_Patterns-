@@ -10,4 +10,4 @@ Usecase 2- With dispose method/using block creating 'n' database connections and
 
 ### Memory Snapstot:
 
-![alt text]()
+![alt text](https://github.com/avilavate/.Net_Memory_Management-IDispose_Patterns-/blob/master/with_dispose/with_dispose.jpg)
