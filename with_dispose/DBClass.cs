@@ -45,6 +45,7 @@ namespace with_dispose
         {
             if (v)
             {
+                Console.WriteLine("Dispose on DBClass is called!");
                 if (connection != null)
                 {
                     connection.Close();

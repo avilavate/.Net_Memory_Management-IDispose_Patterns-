@@ -1,0 +1,5 @@
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\with_dispose.exe.config
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\with_dispose.exe
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\with_dispose.pdb
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Debug\with_dispose.exe
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Debug\with_dispose.pdb
