@@ -31,6 +31,7 @@ namespace with_dispose
                 {
                     // Always call Close when done reading.
                     reader.Close();
+                    Console.WriteLine(ex.Message);
                 }
             }
 

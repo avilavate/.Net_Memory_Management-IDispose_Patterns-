@@ -3,3 +3,6 @@ C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\w
 C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\with_dispose.pdb
 C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Debug\with_dispose.exe
 C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Debug\with_dispose.pdb
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\with_dispose.exe.CodeAnalysisLog.xml
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\bin\Debug\with_dispose.exe.lastcodeanalysissucceeded
+C:\Users\admin\NG2\C#\Memory_Managment\Memory_Managment\with_dispose\obj\Debug\with_dispose.csprojResolveAssemblyReference.cache

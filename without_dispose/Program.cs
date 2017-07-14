@@ -34,8 +34,7 @@ namespace without_dispose
             }
             catch (Exception ex)
             {
-                // Always call Close when done reading.
-               // reader.Close();
+                Console.WriteLine(ex.Message);
             }
 
         }

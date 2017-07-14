@@ -31,7 +31,7 @@ namespace with_dispose
                 Marshal.FreeHGlobal(IPointer);
                 IPointer = IntPtr.Zero;
             }
-            base.Dispose(v);
+           base.Dispose(v);
         }
 
         ~DerivedDBClass()
