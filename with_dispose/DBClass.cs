@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 namespace with_dispose
 {
-    class DBClass : IDisposable
+    class DBClass :  IDBClass
     {
         public SqlCommand command { get; set; }
         public SqlConnection connection { get; set; }

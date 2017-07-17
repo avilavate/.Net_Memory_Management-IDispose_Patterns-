@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace with_dispose
 {
-    class DerivedDBClass : DBClass, IDisposable
+    class DerivedDBClass : DBClass
     {
         public IntPtr IPointer { get; set; }
 
         public void AllocPointer()
         {
             //Allocate 4MB
-            IPointer = Marshal.AllocHGlobal(1 * 1024 * 1024);
+            IPointer = Marshal.AllocHGlobal(5 * 1024 * 1024);
 
         }
         public void Dispose()

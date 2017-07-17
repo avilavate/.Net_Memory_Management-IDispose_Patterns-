@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="DBClass.cs" />
     <Compile Include="DerivedDBClass.cs" />
+    <Compile Include="IDBClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

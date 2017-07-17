@@ -7,14 +7,14 @@ namespace with_dispose
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter x to exit, c to continue");
+            Console.WriteLine("Enter g to collect x to exit, c to continue");
 
             //Testing if foreach calls dispose
 
-            foreach (var loopI in new List<DBClass>() { new DBClass(), new DBClass() })
-            {
-                loopI.ReadOrderData(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
-            }
+            //foreach (var loopI in new List<DBClass>() { new DBClass(), new DBClass() })
+            //{
+            //    loopI.ReadOrderData(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            //}
 
             while (true)
             {
@@ -29,6 +29,10 @@ namespace with_dispose
                         obj1.AllocPointer();
                         obj1.ReadOrderData(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
                     }
+                }
+                else if(ch == "g")
+                {
+                    GC.Collect();
                 }
             }
 
